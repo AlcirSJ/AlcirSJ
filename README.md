@@ -12,7 +12,6 @@
 
 <div align="center"> 
 <h3 align="center">Stacks:</h3>
-<img align="center"  height="30" width="40" src= "https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
